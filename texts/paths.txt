@@ -1,0 +1,50 @@
+./paes2024/1.txt
+./paes2024/2.txt
+./paes2024/3.txt
+./paes2024/4.txt
+./paes2024/5.txt
+./paes2024/6.txt
+./paes2024/7.txt
+./paes2024/8.txt
+./paes2024 inverno/1.txt
+./paes2024 inverno/2.txt
+./paes2024 inverno/3.txt
+./paes2024 inverno/4.txt
+./paes2024 inverno/5.txt
+./paes2024 inverno/6.txt
+./paes2024 inverno/7.txt
+./paes2024 inverno/8.txt
+./paes2025/1.txt
+./paes2025/2.txt
+./paes2025/3.txt
+./paes2025/4.txt
+./paes2025/5.txt
+./paes2025/6.txt
+./paes2025 invierno/1.txt
+./paes2025 invierno/2.txt
+./paes2025 invierno/3.txt
+./paes2025 invierno/4.txt
+./paes2025 invierno/5.txt
+./paes2025 invierno/6.txt
+./paes2025 invierno/7.txt
+./paes2025 invierno/8.txt
+./paes2026/1.txt
+./paes2026/2.txt
+./paes2026/3.txt
+./paes2026/4.txt
+./paes2026/5.txt
+./paes2026 invierno/1.txt
+./paes2026 invierno/2.txt
+./paes2026 invierno/3.txt
+./paes2026 invierno/4.txt
+./paes2026 invierno/5.txt
+./paes2026 invierno/6.txt
+./paes2026 invierno/7.txt
+./pdt2023/1.txt
+./pdt2023/2.txt
+./pdt2023/3.txt
+./pdt2023/4.txt
+./pdt2023/5.txt
+./pdt2023/6.txt
+./pdt2023/7.txt
+./pdt2023/8.txt

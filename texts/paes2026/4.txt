@@ -1,0 +1,104 @@
+Fragmento del capítulo del libro Breve historia de la química de Isaac Asimov, publicado
+por primera vez el año 1965.
+Química orgánica
+La crisis del vitalismo
+Desde el descubrimiento del fuego, el hombre estuvo inevitablemente sujeto a dividir las
+sustancias en dos clases, según ardiesen o no. Los principales combustibles de la
+antigüedad fueron la madera y las grasas o aceites. La madera era un producto del
+mundo vegetal, mientras que la grasa y el aceite eran productos del reino animal o del
+vegetal. En su mayor parte, los materiales del mundo mineral, tales como el agua, la
+arena y las rocas, no ardían. Tienden, más bien, a apagar el fuego.
+La idea inmediata era que las dos clases de sustancias –combustibles y no
+combustibles– podían considerarse convenientemente como las que provenían
+solamente de cosas vivientes y las que no provenían de estas. (Por supuesto, hay
+excepciones a esta regla. El carbón y el azufre, que parecen productos de la parte no
+viviente de la tierra, son combustibles).
+El creciente conocimiento del siglo XVIII mostró a los químicos que el mero hecho de la
+combustibilidad no era todo lo que separaba a los productos de la vida de los de la
+no-vida. Las sustancias características del medio no-vivo pueden soportar tratamientos
+enérgicos, mientras que las sustancias provenientes de la materia viva –o que estuvo
+viva– no pueden. El agua podía hervirse y recondensarse de nuevo; el hierro o la sal
+podían fundirse y resolidificarse sin cambiar. El aceite de oliva o el azúcar, sin embargo,
+si se calentaban (incluso bajo condiciones que evitasen la combustión), procedían a
+humear y carbonizarse. Lo que quedaba no era ni aceite de oliva ni azúcar, y a partir de
+estos residuos no podían formarse de nuevo las sustancias originales.
+Las diferencias parecían fundamentales y, en 1807, Berzelius5 sugirió que las sustancias
+como el aceite de oliva o el azúcar, productos característicos de los organismos, se
+llamasen orgánicas. Las sustancias como el agua o la sal, características del medio
+no-viviente, eran inorgánicas.
+Un punto que no dejó de impresionar a los químicos fue que las sustancias orgánicas
+eran fácilmente convertibles, por calentamiento u otro tratamiento enérgico, en
+sustancias inorgánicas. El cambio inverso, de inorgánico a orgánico, era sin embargo
+desconocido, al menos a comienzos del siglo XIX.
+
+5 Médico y químico sueco (1779-1848).
+Muchos químicos de aquella época consideraban la vida como un fenómeno especial
+que no obedecía necesariamente a las leyes del universo tal como se aplicaban a los
+objetos inanimados. La creencia en esta posición especial de la vida se llama vitalismo,
+y había sido intensamente predicada un siglo antes por Stahl, el inventor del flogisto6. A
+la luz del vitalismo, parecía razonable suponer que era precisa alguna influencia especial
+(una “fuerza vital”), operando solamente sobre los tejidos vivos, para convertir los
+materiales inorgánicos en orgánicos. Los químicos, trabajando con sustancias y técnicas
+ordinarias y sin ser capaces de manejar una fuerza vital en su tubo de ensayo, no podrían
+alcanzar esta conversión.
+Por esta razón, se argumentaba, que las sustancias inorgánicas pueden encontrarse en
+todas partes, tanto en el dominio de la vida como en el de la no-vida, al igual que el agua
+puede encontrarse tanto en el océano como en la sangre. Las sustancias orgánicas, que
+precisan de la fuerza vital, solamente pueden encontrarse en conexión con la vida.
+Esta opinión fue subvertida por primera vez en 1828 por el trabajo de Friedrich Wöhler
+(1800-1882), un químico alemán que había sido discípulo de Berzelius. Wöhler,
+interesado particularmente por los cianuros y compuestos relacionados con ellos, calentó
+en cierta ocasión un compuesto llamado cianato amónico (considerado en aquella época
+como una sustancia inorgánica, sin ningún tipo de conexión con la materia viva). En el
+curso del calentamiento, Wöhler descubrió que se estaban formando cristales parecidos
+a los de la urea, un producto de desecho eliminado en cantidades considerables en la
+orina de muchos animales, incluido el hombre. Estudios más precisos mostraron que los
+cristales eran, indudablemente urea, un compuesto claramente orgánico, sin duda.
+Wöhler repitió el experimento un cierto número de veces y halló que se podía convertir
+una sustancia inorgánica (cianato amónico) en una sustancia orgánica (urea) a voluntad.
+Comunicó este descubrimiento a Berzelius, y aquel hombre terco (que raramente
+condescendía a abandonar sus posiciones) se vio obligado a aceptar que la línea que
+había trazado entre lo inorgánico y lo orgánico no era tan nítida como había pensado.
+La importancia del trabajo de Wöhler no debe ser sobreestimada. En sí mismo no era
+muy significativo. Había fundamentos para argüir que el cianato amónico no era
+verdaderamente inorgánico y, aunque lo fuera, la transformación de cianato amónico en
+urea (como finalmente se puso en claro) era simplemente el resultado de una alteración
+de la posición de los átomos dentro de la molécula. La molécula de urea no estaba, en
+ningún sentido real, construida a partir de sustancias completamente distintas.
+ 6 Principio o agente que se creyó intervenía en algunos procesos químicos, especialmente en la
+combustión.
+Pero tampoco puede despreciarse el hallazgo de Wöhler. Si bien era, realmente, un
+hecho menor en sí mismo, sirvió no obstante para romper la influencia del vitalismo sobre
+el pensamiento de aquella época, y para animar a los químicos a intentar la síntesis de
+sustancias orgánicas, cuando de otro modo hubieran dirigido sus esfuerzos en otras
+direcciones.
+En 1845, por ejemplo, Adolf Wilhelm Hermann Kolbe (1818-1884), un alumno de Wöhler,
+sintetizó ácido acético, una sustancia indudablemente orgánica. Más adelante lo sintetizó
+por un método que mostró que puede trazarse una línea definida de transformación
+química desde los elementos constituyentes, carbono, hidrógeno y oxígeno, hasta el
+producto final, ácido acético. Esta síntesis a partir de los elementos o síntesis total es lo
+máximo que puede pedírsele a la química. Si la síntesis de la urea por Wöhler no dejó
+resuelta la cuestión de la fuerza vital, la síntesis de Kolbe sí.
+Quien llevó las cosas aún más lejos fue el químico francés Pierre Eugène Marcelin
+Berthelot (1827-1907). Durante la década de 1850 efectuó sistemáticamente la síntesis
+de compuestos orgánicos, confeccionando unas tablas. Incluían estas sustancias tan
+conocidas e importantes como el metanol, etanol, metano, benceno y acetileno. Con
+Berthelot, cruzar la línea entre lo inorgánico y lo orgánico dejó de ser una aventurada
+incursión en lo “prohibido” para convertirse en algo puramente rutinario.
+Los ladrillos con los que se construye la vida
+Pero los compuestos orgánicos formados por Wöhler, Kolbe y Berthelot eran todos
+relativamente simples. Lo más característico de la vida eran las sustancias mucho más
+complejas, como el almidón, grasas y proteínas. Estas eran menos fáciles de manejar;
+su exacta composición elemental no era tan fácil de determinar y en general presentaban
+el incipiente reino de la química orgánica como un problema realmente formidable.
+Todo lo que podía decirse al principio de estas complejas sustancias era que podían
+escindirse en unidades o “ladrillos” relativamente simples, calentándolas con ácido o
+bases diluidas. El pionero en este campo fue un químico ruso, Gottlib Sigizmund Kírjgof
+(1764-1833). En 1812 logró convertir almidón (calentándolo con ácido) en un azúcar
+simple que llamó finalmente glucosa.
+En 1820, el químico francés Henri Braconnot trató de la misma manera la gelatina y
+obtuvo el compuesto glicina. Se trata de un ácido orgánico que contiene nitrógeno y
+pertenece a un grupo de sustancias que Berzelius llamó aminoácidos. La misma glicina
+no fue sino el precursor de unos veinte aminoácidos diferentes, todos los cuales fueron
+aislados de proteínas durante el siglo siguiente.
+Asimov, I. (1975). Breve historia de la química. Alianza

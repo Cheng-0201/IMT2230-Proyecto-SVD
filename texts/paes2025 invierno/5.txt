@@ -1,0 +1,81 @@
+Fragmento del artículo escrito por Andrea Cisterna-Concha, publicado el año 2020.
+Sistema de Corriente de Humboldt:
+Un recurso vital para la biodiversidad marina
+Muchas veces hemos escuchado hablar sobre la gran productividad que hay en aguas
+chilenas. Esa gran productividad que sostiene grandes pesquerías y una alta
+biodiversidad, pero ¿a qué se debe este fenómeno? ¿Por qué nuestras aguas son tan
+‘ricas’ en nutrientes? ¿Cómo se sostienen esas grandes pesquerías y esa gran
+biodiversidad? Gran parte de estas preguntas pueden ser explicadas por el famoso y
+conocido Sistema de Corriente de Humboldt.
+por Andrea Cisterna-Concha
+En el mundo existen los denominados Sistemas de Surgencia de Borde Oriental
+(EBUS por sus siglas en inglés), los cuales son ecosistemas altamente productivos y
+que, a pesar de que cubren menos del 1 % del océano, proporcionan entre el 20 % y
+40 % de toda la pesca a nivel mundial (Pauly & Christensen, 1995; García-Reyes et al.,
+2015). Los EBUS se encuentran integrados en las corrientes de California, Humboldt,
+Canarias/Ibérica y Benguela (Figura 1), brindan servicios ecosistémicos, económicos y
+recreativos a cerca de 80 millones de personas que viven en sus costas y en sus
+tierras interiores (Capone & Hutchins, 2013), pero ¿a qué se debe esta gran
+productividad?
+Figura 1. Sistema de Surgencia de Borde Oriental (EBUS). IMAGEN ORIGINAL:
+Earth Observatory Nasa (https://earthobservatory.nasa.gov/global-maps).
+
+-
+En estos ecosistemas EBUS, los sistemas de presión atmosférica a gran escala generan
+patrones de viento a lo largo de la costa en dirección al ecuador. Este viento combinado
+con el efecto de Coriolis (desplazamiento del agua desde un punto con relación a la
+rotación terrestre) arrastran las aguas superficiales hacia el lado izquierdo de la dirección
+del viento en el hemisferio sur, efecto conocido como transporte de Ekman. Debido al
+principio de conservación de masa, estas aguas arrastradas deben ser sustituidas,
+provocando que aguas profundas (frías, con bajo pH y bajas concentraciones de oxígeno,
+pero con altas concentraciones de CO₂ y nutrientes) asciendan hasta la superficie,
+proceso conocido como surgencia costera (García-Reyes et al., 2015. Figura 2).
+La surgencia favorece la captación de nutrientes y CO₂ por parte del fitoplancton que
+se encuentra en la superficie que, al igual que las plantas terrestres, los ocupan para
+poder realizar fotosíntesis, generando una abundante proliferación de biomasa
+fitoplanctónica, la cual es la base para la mantención de todos los recursos biológicos
+marinos. Los principales productores primarios en los océanos son las microalgas que
+conforman el fitoplancton, estos microorganismos son capaces de producir materia
+orgánica a partir de materia inorgánica. El fitoplancton es el punto de partida para el
+transporte de energía y nutrientes a través de las tramas tróficas7
+.
+
+7 Relaciones alimentarias entre los individuos de una comunidad.
+Figura 2. Surgencia costera producida por viento.
+- -
+-
+
+Las aguas que bañan las costas chilenas están dominadas por el Sistema de
+Corriente de Humboldt (SCH), el cual es el más productivo del mundo. Presenta una
+alta productividad primaria asociada con eventos de surgencia impulsados por el viento
+en diferentes intensidades y frecuencias a lo largo de la costa sudamericana. El SCH
+se extiende desde la costa oeste de América del Sur, desde el sur de Chile (alrededor
+de 42°-45° S) hasta las Islas Galápagos en Ecuador. Es la porción oriental que fluye
+hacia el ecuador del giro anticiclónico del Pacífico sudoriental, limitado al norte por la
+Corriente Ecuatorial del Sur (CES) y al sur por la Corriente de Deriva de los Vientos del
+Oeste.
+La oceanografía general del SCH se caracteriza por un flujo predominante hacia el
+norte de las aguas superficiales, las cuales tienen un origen subantártico (Agua
+Subantártica) y por una fuerte surgencia de aguas subsuperficiales frías, ricas en
+nutrientes de origen ecuatorial (Agua Ecuatorial Subsuperficial). En la zona norte
+(aproximadamente entre Arica y Coquimbo) el afloramiento de aguas está localizado.
+Esto se debe a que el promedio de los vientos de esa zona es predominantemente
+hacia el norte, provocando una surgencia permanente que mantiene una alta
+productividad primaria durante gran parte del año. En la zona centro-sur el afloramiento
+de agua no es constante, sino que estacional. Esto se debe a que la dirección de los
+vientos cambia y no siempre van hacia el norte, sino que también pueden ir hacia el
+sur, provocando surgencia principalmente en el período primavera-verano, cuando los
+vientos van hacia el norte favoreciendo una alta productividad primaria en esta época
+del año.
+Producto del afloramiento continuo de aguas profundas con bajo oxígeno, en las áreas
+con surgencia además se produce la denominada Zona de Mínimo Oxígeno (ZMO).
+Esta es una barrera física para algunos organismos pelágicos (que viven en la zona
+desde la superficie del mar hasta la capa cercana al fondo marino) y bentónicos (que
+viven asociados al fondo marino), que puede ejercer una presión fisiológica sobre ellos
+debido a las bajas concentraciones de oxígeno que deben soportar. La extensión de la
+ZMO depende de varios factores, entre ellos la intensidad del viento, surgencia y
+tamaño de la plataforma continental. Fenómenos climáticos a gran escala, como es El
+Niño Oscilación del Sur (ENOS), pueden superponerse a las condiciones del SCH,
+provocando cambios temporales en toda la franja asociada a este sistema.
+Cisterna-Concha, A. (2020). Sistema de Corriente de Humboldt: Un recurso vital para la biodiversidad
+marina. La Chiricoca, (25), 5-11. http://www.lachiricoca.cl/wpcontent/uploads/2020/07/LaChiricoca25_Sistema-de-Corriente-de-Humboldt.pdf
