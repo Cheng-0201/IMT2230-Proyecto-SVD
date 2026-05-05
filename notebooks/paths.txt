@@ -1,0 +1,57 @@
+..\texts\paes2024\El leve Pedro.txt
+..\texts\paes2024\EL PANSORI Y SU SIMILITUD CON EL FLAMENCO.txt
+..\texts\paes2024\Estudios de folclor, cultura popular y patrimonio cultural inmaterial (1909-2003).txt
+..\texts\paes2024\GUÍA ORGANIZACIONES SINDICALES.txt
+..\texts\paes2024\La actividad física es tu medicina.txt
+..\texts\paes2024\Qué es la Economía y de qué se ocupa.txt
+..\texts\paes2024\Restauración, el arte detrás del arte.txt
+..\texts\paes2024\Textiles de polietileno, un paso de la moda rápida hacia la moda sustentable.txt
+..\texts\paes2024 inverno\Chile Artesanía.txt
+..\texts\paes2024 inverno\El arte y la ciencia de no hacer nada, el piloto automático del cerebro.txt
+..\texts\paes2024 inverno\El barco a vapor.txt
+..\texts\paes2024 inverno\HUMBERSTONE Y SANTA LAURA.txt
+..\texts\paes2024 inverno\Las mujeres y la radio, en plena sintonía.txt
+..\texts\paes2024 inverno\Medicina y cirugía antiguas.txt
+..\texts\paes2024 inverno\Psicología fisiológica.txt
+..\texts\paes2024 inverno\Tus mensajes dicen mucho de ti.txt
+..\texts\paes2025\DISCURSO DE RECEPCIÓN DEL PREMIO NOBEL DE LITERATURA.txt
+..\texts\paes2025\LA TENSIÓN PUERTO-BALNEARIO EN VALPARAÍSO.txt
+..\texts\paes2025\Módulo 1, Introducción a la gestión de las artes escénicas.txt        
+..\texts\paes2025\QUÉ ES LA PSICOLOGÍA.txt
+..\texts\paes2025\Ruta de la Seguridad Social. Guía informativa de derechos y beneficios.txt
+..\texts\paes2025\UN OASIS DE DICHA.txt
+..\texts\paes2025 invierno\DE LOS PALOS DE CONTEO A LA ESCRITURA.txt
+..\texts\paes2025 invierno\LA ACTIVIDAD FÍSICA Y EL DEPORTE COMO UN DERECHO HUMANO.txt  
+..\texts\paes2025 invierno\LA NATURALEZA Y LA SOCIEDAD.txt
+..\texts\paes2025 invierno\LA SEDA TRADICIONAL TAILANDESA CONQUISTA EL MUNDO.txt
+..\texts\paes2025 invierno\Psicología evolutiva, concepto, enfoques, controversias y métodos.txt
+..\texts\paes2025 invierno\Queremos tanto a Glenda.txt
+..\texts\paes2025 invierno\Sistema de Corriente de Humboldt, Un recurso vital para la biodiversidad marina.txt
+..\texts\paes2025 invierno\Tejuelería en la región de Aysén.txt
+..\texts\paes2026\Español actual, globalización e interculturalidad.txt
+..\texts\paes2026\Guía de Formación Cívica.txt
+..\texts\paes2026\Guía de kioscos escolares y colaciones saludables.txt
+..\texts\paes2026\Parménides.txt
+..\texts\paes2026\Química orgánica.txt
+..\texts\paes2026 invierno\Antecedentes conceptuales sobre el envejecimiento demográfico.txt
+..\texts\paes2026 invierno\Diva.txt
+..\texts\paes2026 invierno\El escritor y su público.txt
+..\texts\paes2026 invierno\El orden del tiempo.txt
+..\texts\paes2026 invierno\Fenómeno cultural, problemáticas, definiciones y otros aspectos sobre.txt
+..\texts\paes2026 invierno\Memoria corta.txt
+..\texts\paes2026 invierno\¿Cuál es el papel que ocupan la ciencia y la tecnología en la sociedad y.txt
+..\texts\pdt2023\Casa tomada.txt
+..\texts\pdt2023\Circulación de los ciclos.txt
+..\texts\pdt2023\Definición del problema.txt
+..\texts\pdt2023\Día de la Tierra, un poco de historia y reflexión.txt
+..\texts\pdt2023\Guía Educativa, La macrauquenia.txt
+..\texts\pdt2023\La ciencia. Su método y su filosofía.txt
+..\texts\pdt2023\La nueva vida lenta.txt
+..\texts\pdt2023\LOS MISTERIOS DE LAS BALLENAS.txt
+..\texts\pdt2023 marcadas\El lenguaje que nos identifica.txt
+..\texts\pdt2023 marcadas\Know your pebre la química entre sus ingredientes.txt
+..\texts\pdt2023 marcadas\Mafalda.txt
+..\texts\pdt2023 marcadas\Martín Rivas.txt
+..\texts\pdt2023 marcadas\Pedro Paulet, el peruano que se convirtió en el padre de la astronáutica inspirado por un libro de Julio Verne.txt
+..\texts\pdt2023 marcadas\Suzanne Simard develó los secretos sobre la comunicación entre los árboles en charla magistral.txt
+..\texts\pdt2023 marcadas\Vindicación del libro.txt
