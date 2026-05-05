@@ -13,7 +13,7 @@ fuente: pdf de [demre](https://demre.cl/publicaciones/listado-2027).
 
 ## P 2 (Hipotesis inicial)
 
-La corpus debería contener una variedad de temas diferentes, también cuenta con una variedad de tipos de documentos diferentes. Y permanecen inalterables con el paso del tiempo.
+La corpus debería contener una variedad de temas diferentes, también cuenta con una variedad de tipos de documentos diferentes. Y permanecen invariante con el paso del tiempo.
 
 ## (Preprocesamiento del texto)
 
