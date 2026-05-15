@@ -16,7 +16,7 @@ Este repositorio contiene el código y los archivos necesarios para reproducir e
   ├── stopword_IA.txt              # Lista complementaria de stopwords
   ├── paths.txt                    # Rutas a los documentos del corpus
 ├── textos/                      # Carpeta con los 57 documentos .txt
-  ├── 2023m-04
+  ├── 2023m
   ├── ...
 └── README.md
 ```
