@@ -102,4 +102,4 @@ Ejecutar todas las celdas en orden reproduce todas las figuras y resultados del 
 
 ## Licencia
 
-Este proyecto está licenciado bajo Creative Commons CC-BY 4.0.
+Este proyecto está licenciado bajo [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
