@@ -1,26 +1,99 @@
-# IMT2230-Proyecto-SVD
-proyecto svd, procesamiento de textos
+# Aplicando LSA en PAES de Competencia Lectora
 
+**Zhongzhe Cheng - Benjamín Pardo Albornoz**  
+Proyecto final — Álgebra Lineal
 
-## P 1 (Eleccion y descripcion del corpus).
+Este repositorio contiene el código y los archivos necesarios para reproducir el análisis semántico latente (LSA) aplicado a un corpus de textos extraídos de las pruebas PAES de Competencia Lectora (DEMRE, Chile).
 
-Descripción del corpus
+---
 
-**Fuente: Publicaciones oficiales del DEMRE** (Departamento de Evaluación, Medición y Registro Educacional), disponibles en demre.cl/publicaciones. Los archivos son PDFs de acceso público que contienen las pruebas completas de la PAES (Prueba de Acceso a la Educación Superior) y sus versiones de ensayo (PDT), con sus respectivos textos de comprensión lectora.
+## Contenido del repositorio
 
-¿Cuántos documentos?
+```
+├── Exploracion_LSA_PAES.ipynb   # Notebook principal con todo el análisis
+├── stopword.txt                 # Lista de stopwords en español
+├── stopword_IA.txt              # Lista complementaria de stopwords
+├── paths.txt                    # Rutas a los documentos del corpus
+├── textos/                      # Carpeta con los 57 documentos .txt
+└── README.md
+```
 
-El corpus está compuesto por **50 textos** extraídos de las pruebas de comprensión lectora de PAES y PDT oficiales. Cada texto corresponde a un fragmento discontinuo o continuo presentado en la prueba, **con un largo que oscila entre 200 y 800 palabras aproximadamente**, lo que garantiza una cantidad razonable de contenido por documento.
+---
 
-¿Por qué es interesante?
+## Datos
 
-El corpus es atractivo por varias razones. Primero, los textos **son seleccionados por especialistas del DEMRE siguiendo criterios técnicos y curriculares precisos, lo que los convierte en una muestra curada de lectura "legítima" según el sistema educativo chileno.** Segundo, al abarcar múltiples años de aplicación, permite estudiar cómo evolucionan en el tiempo las características de los textos seleccionados: temáticas, géneros discursivos, extensión, nivel de complejidad léxica y estructura. Tercero, la fuente es completamente abierta y oficial, lo que hace el corpus replicable y verificable.
+Los textos utilizados son fragmentos extraídos de las pruebas oficiales PAES y PDT, disponibles públicamente en:
 
-## P 2 (Hipotesis inicial)
+> [https://demre.cl/publicaciones](https://demre.cl/publicaciones)
 
-"Hipotetizamos que el corpus de textos PAES presenta diversidad temática (entre 3 a 5 categorías) y tipológica (al menos 3 géneros discursivos), y que esta diversidad se mantiene relativamente estable a lo largo de las distintas versiones de la prueba o los diferentes periodos de evaluacion."
+Para reproducir el análisis, descarga los documentos desde esa página y colócalos en una carpeta llamada `textos/`. Luego actualiza el archivo `paths.txt` con las rutas correspondientes a tu sistema.
 
-## (Preprocesamiento del texto)
+El corpus final consta de **57 documentos** en español, con una extensión de entre 200 y 800 palabras cada uno.
 
-stopword: https://github.com/Alir3z4/stop-words/blob/master/spanish.txt
+---
+
+## Requisitos
+
+Se recomienda usar Python 3.9 o superior. Para instalar las dependencias necesarias, ejecuta:
+
+```bash
+pip install -r requirements.txt
+```
+
+Las librerías principales que se utilizan son:
+
+- `scikit-learn` — vectorización TF-IDF y preprocesamiento
+- `spacy` — lematización en español
+- `numpy` — cálculo de SVD
+- `matplotlib` — generación de figuras
+
+Además, es necesario descargar el modelo de español de spaCy:
+
+```bash
+python -m spacy download es_core_news_sm
+```
+
+---
+
+## Instrucciones de ejecución
+
+1. Clona este repositorio:
+```bash
+git clone https://github.com/usuario/lsa-paes.git
+cd lsa-paes
+```
+
+2. Instala las dependencias:
+```bash
+pip install -r requirements.txt
+python -m spacy download es_core_news_sm
+```
+
+3. Asegúrate de que los textos estén en la carpeta `textos/` y que `paths.txt` apunte a ellos correctamente.
+
+4. Abre y ejecuta el notebook en orden:
+```bash
+jupyter notebook Exploracion_LSA_PAES.ipynb
+```
+
+Ejecutar todas las celdas en orden reproduce todas las figuras y resultados del informe.
+
+---
+
+## Figuras reproducibles
+
+| Figura | Descripción | Celda del notebook |
+|--------|-------------|-------------------|
+| Fig. 1 | Términos más frecuentes sin preprocesamiento | Sección 1 |
+| Fig. 2 | Decaimiento de valores singulares | Sección 3 |
+| Fig. 3 | Plano LSA: componentes 1 vs 2 | Sección 4 |
+| Fig. 4 | Plano LSA: componentes 2 vs 3 | Sección 4 |
+| Fig. 5 | Plano LSA: componentes 3 vs 4 | Sección 4 |
+
+---
+
+## Notas
+
+- Si se ejecuta localmente, verificar que las rutas en `paths.txt` sean correctas para el sistema operativo utilizado.
+- Los archivos de stopwords (`stopword.txt` y `stopword_IA.txt`) son necesarios para reproducir exactamente los resultados. Están incluidos en el repositorio.
 
