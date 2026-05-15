@@ -59,7 +59,7 @@ python -m spacy download es_core_news_sm
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/usuario/lsa-paes.git
+git clone https://github.com/Cheng-0201/IMT2230-Proyecto-SVD.git
 cd lsa-paes
 ```
 
