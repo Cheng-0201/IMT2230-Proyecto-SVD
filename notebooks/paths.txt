@@ -54,4 +54,3 @@
 ..\texts\2026r\02.txt
 ..\texts\2026r\03.txt
 ..\texts\2026r\04.txt
-..\texts\2026r\05.txt
