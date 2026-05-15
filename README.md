@@ -13,12 +13,12 @@ Este repositorio contiene el código y los archivos necesarios para reproducir e
 ├── notebooks/
   ├── Exploracion_LSA_PAES.ipynb   # Notebook principal con todo el análisis
   ├── stopword.txt                 # Lista de stopwords en español
-  ├── stopword_IA.txt              # Lista complementaria de stopwords
   ├── paths.txt                    # Rutas a los documentos del corpus
-├── textos/                      # Carpeta con los 57 documentos .txt
+├── textos/                      # Carpeta con los 56 documentos .txt
   ├── 2023m
   ├── ...
 └── README.md
+└── requirements.txt
 ```
 
 ---
@@ -31,7 +31,7 @@ Los textos utilizados son fragmentos extraídos de las pruebas oficiales PAES y 
 
 Para reproducir el análisis, descarga los documentos desde esa página y colócalos en una carpeta llamada `textos/`. Luego actualiza el archivo `paths.txt` con las rutas correspondientes a tu sistema.
 
-El corpus final consta de **57 documentos** en español, con una extensión de entre 200 y 800 palabras cada uno.
+El corpus final consta de **56 documentos** en español, con una extensión de entre 200 y 800 palabras cada uno.
 
 ---
 
@@ -63,7 +63,7 @@ python -m spacy download es_core_news_sm
 1. Clona este repositorio:
 ```bash
 git clone https://github.com/Cheng-0201/IMT2230-Proyecto-SVD.git
-cd lsa-paes
+cd IMT2230-Proyecto-SVD
 ```
 
 2. Instala las dependencias:
@@ -76,7 +76,7 @@ python -m spacy download es_core_news_sm
 
 4. Abre y ejecuta el notebook en orden:
 ```bash
-jupyter notebook Exploracion_LSA_PAES.ipynb
+jupyter notebook ./notebooks/Exploracion_LSA_PAES.ipynb
 ```
 
 Ejecutar todas las celdas en orden reproduce todas las figuras y resultados del informe.
@@ -98,5 +98,8 @@ Ejecutar todas las celdas en orden reproduce todas las figuras y resultados del 
 ## Notas
 
 - Si se ejecuta localmente, verificar que las rutas en `paths.txt` sean correctas para el sistema operativo utilizado.
-- Los archivos de stopwords (`stopword.txt` y `stopword_IA.txt`) son necesarios para reproducir exactamente los resultados. Están incluidos en el repositorio.
+- El archivo de stopwords (`stopword.txt`, proviene de [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words/blob/master/spanish.txt)) es necesarios para reproducir exactamente los resultados. Están incluidos en el repositorio.
 
+## Licencia
+
+Este proyecto está licenciado bajo Creative Commons CC-BY 4.0.
